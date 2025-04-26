@@ -10,6 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@ai-sdk/cerebras": "^0.2.13",
+    "@supabase/supabase-js": "^2.49.4",
+    "ai": "^4.3.10",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "together-ai": "^0.15.1"
