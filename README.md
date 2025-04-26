@@ -21,3 +21,5 @@ set all info in .env.sample
 ```shell
 pnpm run dev
 ```
+
+https://github.com/user-attachments/assets/c420c67f-d31d-4d75-91c8-39c0dede7aeb
